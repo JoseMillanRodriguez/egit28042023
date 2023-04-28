@@ -8,7 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>Servlets en Java con Git prueba 2</h2>
+<h2>Servlets en Java con Git prueba 2 y prueba 3</h2>
 <%= new Date() %>
 <hr>
 <a href="contacto.html">Contacto</a>
