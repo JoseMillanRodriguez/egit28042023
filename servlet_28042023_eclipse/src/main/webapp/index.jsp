@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>Servlets en Java</h2>
+<h2>Servlets en Java cin Git</h2>
 </body>
 </html>
